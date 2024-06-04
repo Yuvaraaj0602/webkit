@@ -98,7 +98,7 @@ i {
     box-shadow: 0 0 3px gray;
     border-radius: 5px;
     background: linear-gradient(rgb(228, 113, 228), rgb(195, 171, 191));
-    /* background-color: rgb(145, 137, 145); */
+   
 
 }
 
@@ -130,7 +130,7 @@ section {
 #table {
 
     border-collapse: collapse;
-    width: 50vw;
+   
     border: 2px solid #ddd;
     font-size: 18px;
 }
